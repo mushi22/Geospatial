@@ -33,7 +33,6 @@ public class MainActivity extends Activity {
        
        
        
-      // googleMap.setMyLocationEnabled(true); 
 
        try { 
              if (googleMap == null) {
