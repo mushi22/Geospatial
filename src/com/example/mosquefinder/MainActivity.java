@@ -31,9 +31,9 @@ public class MainActivity extends Activity {
        super.onCreate(savedInstanceState);
        setContentView(R.layout.activity_main);
        
+       //need to add another button here 
        
        
-
        try { 
              if (googleMap == null) {
                 googleMap = ((MapFragment) getFragmentManager().
