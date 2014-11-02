@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/relativeLayout">
+
 <fragment xmlns:android="http://schemas.android.com/apk/res/android"
           android:id="@+id/map"
           android:layout_width="1070px"
           android:layout_height="1400px"
           android:name="com.google.android.gms.maps.MapFragment"/>
+          
+      
+</RelativeLayout>

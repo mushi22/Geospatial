@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
        
        //need to add another button here 
        
-       
+       //anoth
        try { 
              if (googleMap == null) {
                 googleMap = ((MapFragment) getFragmentManager().
@@ -57,6 +57,13 @@ public class MainActivity extends Activity {
        
        
     }
+    
+    //button function here
+    
+    
+    //another button function here
+    
+    
 
 }
 
